@@ -1,4 +1,5 @@
 // Write your code here.
+<<<<<<< HEAD
 import {Component} from 'react'
 import './index.css'
 
@@ -33,3 +34,5 @@ class ThumbnailItem extends Component {
   }
 }
 export default ThumbnailItem
+=======
+>>>>>>> e9ecd4f616a0cd21ad4757474829e8e157dae5b8

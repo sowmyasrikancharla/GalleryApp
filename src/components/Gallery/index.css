@@ -1,4 +1,5 @@
 /* Write your code here. */
+<<<<<<< HEAD
 .main-con {
   display: flex;
   flex-direction: column;
@@ -25,3 +26,5 @@
   display: flex;
   flex-direction: row;
 }
+=======
+>>>>>>> e9ecd4f616a0cd21ad4757474829e8e157dae5b8

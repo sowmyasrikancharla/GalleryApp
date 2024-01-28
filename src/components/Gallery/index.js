@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 import {Component} from 'react'
 import ThumbnailItem from '../ThumbnailItem'
 import './index.css'
 
+=======
+>>>>>>> e9ecd4f616a0cd21ad4757474829e8e157dae5b8
 const imagesList = [
   {
     id: 0,
@@ -74,6 +77,7 @@ const imagesList = [
 ]
 
 // Write your code here.
+<<<<<<< HEAD
 
 const SelectedImage = props => {
   const {imageDetails} = props
@@ -117,3 +121,5 @@ class Gallery extends Component {
   }
 }
 export default Gallery
+=======
+>>>>>>> e9ecd4f616a0cd21ad4757474829e8e157dae5b8
