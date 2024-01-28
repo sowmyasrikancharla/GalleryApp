@@ -1,0 +1,27 @@
+/* Write your code here. */
+.main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: inset;
+}
+.selectedImageSize {
+  height: 45vh;
+  width: 30%;
+  border-radius: 10px;
+  margin: 40px;
+}
+.head {
+  color: #1e293b;
+  font-size: 22px;
+  margin-left: 40px;
+}
+.sub-head {
+  color: #64748b;
+  font-size: 16px;
+  margin-left: 40px;
+}
+.thumbnail-con {
+  display: flex;
+  flex-direction: row;
+}
